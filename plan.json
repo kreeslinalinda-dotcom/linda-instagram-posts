@@ -1,0 +1,363 @@
+[
+ {
+  "date": "2026-11-12",
+  "folder": "02 Everyone is tired of AI",
+  "slug": "02",
+  "images": [
+   "tired-of-ai-01.jpg",
+   "tired-of-ai-02.jpg",
+   "tired-of-ai-03.jpg",
+   "tired-of-ai-04.jpg",
+   "tired-of-ai-05.jpg",
+   "tired-of-ai-06.jpg",
+   "tired-of-ai-07.jpg",
+   "tired-of-ai-08.jpg",
+   "tired-of-ai-09.jpg"
+  ],
+  "caption": "🙄 Everyone is tired of AI. Unpopular opinion: we're not tired, we're early.\n\nAbout half of adults now use AI chatbots, but fewer than 1 in 10 are real power users. Most of us use it like Google: a short question, the first answer, done. Generic question in, generic answer out. Same with images: \"woman in a café\" gets you a plastic face.\n\n· AI runs on context: who you are + what you want + the details\n· Same app, two people, completely different results (card 4)\n· Where are you on the stairs? (card 5)\n· Try the prompt on card 7 tonight and compare the two answers\n\nNot wrong, just not there yet. Send this to the friend who says AI is useless 👇\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡\n\n#AIforbeginners #learnAI #unpopularopinion #womeninAI #notatechgirl\n\nSources: Pew Research Center 2026 (49% of US adults use AI chatbots); PYMNTS Consumer AI Benchmark, July 2026 (8.5% power users).",
+  "len": 927,
+  "video": false
+ },
+ {
+  "date": "2026-11-13",
+  "folder": "03 One sentence isnt a prompt",
+  "slug": "03",
+  "images": [
+   "first-good-prompt-01.jpg",
+   "first-good-prompt-02.jpg",
+   "first-good-prompt-03.jpg",
+   "first-good-prompt-04.jpg",
+   "first-good-prompt-05.jpg",
+   "first-good-prompt-06.jpg",
+   "first-good-prompt-07.jpg",
+   "first-good-prompt-08.jpg"
+  ],
+  "caption": "✍️ One sentence isn't a prompt. Here's how to build one, and why it works.\n\n\"Plan my weekend\" gets you a museum, a restaurant and a walk in the park. That's not AI being bad: every gap you leave, it fills with the most average guess.\n\nBuild your prompt in four parts:\n· Who I am, so it stops guessing who it's for\n· What I want, so it knows the actual job\n· The details, so it fits your real life (budget, time, weather, what you love)\n· How I want it, so you get it in a shape you can use\n\nThen reply instead of starting over: \"shorter\", \"more like me\", \"3 options\".\n\nMy copy-paste template is on card 6. Save it and try it tonight.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 👇🧡\n\n#promptengineering #claudeai #AIforbeginners #learnAI #notatechgirl",
+  "len": 781,
+  "video": false
+ },
+ {
+  "date": "2026-11-14",
+  "folder": "04 ChatGPT Claude or Gemini",
+  "slug": "04",
+  "images": [
+   "which-ai-01.jpg",
+   "which-ai-02.jpg",
+   "which-ai-03.jpg",
+   "which-ai-04.jpg",
+   "which-ai-05.jpg",
+   "which-ai-06.jpg",
+   "which-ai-07.jpg",
+   "which-ai-08.jpg",
+   "which-ai-09.jpg"
+  ],
+  "caption": "🧡 ChatGPT, Claude or Gemini? Here's which one I actually use.\n\nThree apps, one idea: you type, they answer. The difference is in the details.\n\n· ChatGPT (OpenAI): the famous all-rounder\n· Claude (Anthropic): my everyday assistant\n· Gemini (Google): best if you live in Gmail and Docs\n\nI use ChatGPT and Claude, but now mainly Claude. Everything I show you here is a real Claude example, so if you want to follow along, use Claude.\n\nFree or paid? Free is fine for a question or two a day. If AI is part of your work and your day, pay for it. I use Claude Pro.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you ✨👇\n\n#AIforbeginners #claudeai #chatgpt #learnAI #notatechgirl",
+  "len": 696,
+  "video": false
+ },
+ {
+  "date": "2026-11-15",
+  "folder": "06 The Claude tour",
+  "slug": "06",
+  "images": [
+   "claude-tour-01.jpg",
+   "claude-tour-02.jpg",
+   "claude-tour-03.jpg",
+   "claude-tour-04.jpg",
+   "claude-tour-05.jpg",
+   "claude-tour-06.jpg",
+   "claude-tour-07.jpg"
+  ],
+  "caption": "🗺️ Six buttons. That's the whole of Claude.\n\nThe first time I opened it, the left side looked like a cockpit. It isn't. Here's what each button does, in plain words:\n\n· New: a blank chat, write like you'd brief a colleague\n· Search: find any old chat in seconds\n· Projects: one desk per area of your life\n· Artifacts: the documents, slides and sheets it makes you\n· Scheduled: tasks that run on their own (paid plans)\n· Customize: connect your apps and teach it your way\n\nPlus the same Claude on your phone, with the same chats.\n\nYour first message to try is on card 5. Save this for the day you open Claude for the first time.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIforbeginners #learnAI #womeninAI #notatechgirl",
+  "len": 767,
+  "video": true
+ },
+ {
+  "date": "2026-11-16",
+  "folder": "13 Tell Claude who you are",
+  "slug": "13",
+  "images": [
+   "about-you-01.jpg",
+   "about-you-02.jpg",
+   "about-you-03.jpg",
+   "about-you-04.jpg",
+   "about-you-05.jpg",
+   "about-you-06.jpg",
+   "about-you-07.jpg",
+   "about-you-08.jpg",
+   "about-you-09.jpg"
+  ],
+  "caption": "🪞 The Claude setting most people never open.\n\nEvery new chat starts with a stranger, so most of us keep typing \"I'm a project manager, I have two kids…\" again and again. There's a box where you write it once, and Claude reads it before every chat.\n\n· Where: your name (bottom left) → Settings → Your Claude → Instructions (card 2 shows the clicks)\n· What to write: two parts, who you are + how you like answers\n· Don't know what to write? Card 6 has a prompt where Claude interviews you and writes it for you\n· Never put passwords, ID numbers or health details there\n\nSave this and do it tonight; it takes five minutes.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIforbeginners #AItips #learnAI #notatechgirl",
+  "len": 756,
+  "video": true
+ },
+ {
+  "date": "2026-11-17",
+  "folder": "16 Talk dont type",
+  "slug": "16",
+  "images": [
+   "talk-01.jpg",
+   "talk-02.jpg",
+   "talk-03.jpg",
+   "talk-04.jpg",
+   "talk-05.jpg",
+   "talk-06.jpg",
+   "talk-07.jpg",
+   "talk-08.jpg",
+   "talk-09.jpg"
+  ],
+  "caption": "🎙️ Stop typing to Claude. Start talking.\n\nMost people only use the text field. There are four buttons hiding in the Claude chat box, and one of them lets you just talk: ramble, pause, restart, and it types it all out for you.\n\n· Mic: press it and speak, messy is fine (card 2)\n· Plus: files, folders and your apps behind one button (card 3)\n· The model menu: which one when, with real examples (cards 4–5)\n   Haiku for quick answers, Sonnet for simple tasks, Opus for everyday and complex work, Fable for the toughest jobs\n· Effort: Medium for most days, go higher only for the important stuff (card 6)\n\nTry it tonight: press the mic and say the prompt on card 7 out loud. Save this so you remember which model to pick.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIforbeginners #AItips #learnAI #notatechgirl",
+  "len": 856,
+  "video": true
+ },
+ {
+  "date": "2026-11-18",
+  "folder": "05 Is it AI",
+  "slug": "05",
+  "images": [
+   "is-it-ai-01.jpg",
+   "is-it-ai-02.jpg",
+   "is-it-ai-03.jpg",
+   "is-it-ai-04.jpg",
+   "is-it-ai-05.jpg",
+   "is-it-ai-06.jpg",
+   "is-it-ai-07.jpg",
+   "is-it-ai-08.jpg"
+  ],
+  "caption": "🧡 Is it AI? Look closer.\n\nYes, she's AI. But she doesn't look fake, and that's not luck. Most AI portraits look plastic because they're too perfect. Real faces have texture, and AI only adds it when you describe it.\n\n· Eyes: soft window catchlight, separate lashes\n· Fabric: loose mohair fibres catching the light\n· Skin: visible pores, uneven freckles, no smoothing\n· Lips: fine lines, matte, never glossy\n· Hair: flyaways and baby hairs\n\nThe full prompt is on card 7. Want my free guide to starting with AI? Comment AI and I'll send it to you ✨👇\n\n#AIportrait #AIphotography #promptengineering #learnAI #AIart",
+  "len": 610,
+  "video": false
+ },
+ {
+  "date": "2026-11-19",
+  "folder": "07 Projects",
+  "slug": "07",
+  "images": [
+   "projects-01.jpg",
+   "projects-02.jpg",
+   "projects-03.jpg",
+   "projects-04.jpg",
+   "projects-05.jpg",
+   "projects-06.jpg",
+   "projects-07.jpg",
+   "projects-08.jpg",
+   "projects-09.jpg",
+   "projects-10.jpg"
+  ],
+  "caption": "🗂️ Stop explaining yourself to AI every single time.\n\nEvery new chat starts from zero. A project is a desk where your context stays: who you are, what you're working on, your files, how you like answers.\n\nThe full guide, filmed on my phone:\n· Step 1: menu → Projects (every desk lives here)\n· Step 2: New project → a name and a one-sentence goal\n· Step 3: add files and instructions, then chat inside\n\nMy copy-paste project instructions are on card 6. Free plan: up to five projects.\n\nSave this, and tell me in the comments which desk you'd build first.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIforbeginners #productivity #learnAI #notatechgirl",
+  "len": 696,
+  "video": true
+ },
+ {
+  "date": "2026-11-20",
+  "folder": "08 Connectors",
+  "slug": "08",
+  "images": [
+   "connectors-01.jpg",
+   "connectors-02.jpg",
+   "connectors-03.jpg",
+   "connectors-04.jpg",
+   "connectors-05.jpg",
+   "connectors-06.jpg",
+   "connectors-07.jpg",
+   "connectors-08.jpg"
+  ],
+  "caption": "🔌 Still copy-pasting emails into AI? There's a shortcut.\n\nConnectors give Claude a key to one of your apps, so it can look things up there itself, only when you ask.\n\n· Calendar: find a slot when all four of you are free\n· Gmail: what did the landlord say about the deposit?\n· Drive: summarise the Q3 report in five bullets\n· Canva: turn text into a post draft\n\nDrive, Gmail and Calendar work on the free plan. Claude asks before it sends or deletes anything.\n\nThe calendar prompt is on card 5. Send this to the friend who lives in her inbox.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIforbeginners #productivityhacks #learnAI #notatechgirl",
+  "len": 690,
+  "video": true
+ },
+ {
+  "date": "2026-11-21",
+  "folder": "19 Your prompt is a gemstone",
+  "slug": "19",
+  "images": [
+   "gemstone-01.jpg",
+   "gemstone-02.jpg",
+   "gemstone-03.jpg",
+   "gemstone-04.jpg",
+   "gemstone-05.jpg",
+   "gemstone-06.jpg",
+   "gemstone-07.jpg",
+   "gemstone-08.jpg",
+   "gemstone-09.jpg"
+  ],
+  "caption": "💎 Your prompt is a gemstone. The more you polish it, the more it shines.\n\n\"A woman with an orange ring\" is a rough stone: you get a shiny stock-photo ring and plastic skin. Every detail you add is one more cut.\n\n· Cut 1, the stone: name exactly what you want (emerald-cut orange sapphire, double claw prongs, diamond side stones)\n· Cut 2, the light: soft window light, real skin texture, fine lines on the knuckles\n· Cut 3, the shot: extreme close-up, shallow depth of field, luxury editorial\n\nMore work, more shine. My fill-in template is on card 7, and it works for any product photo. Save it for your next shoot.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡\n\n#AIphotography #promptengineering #AIforbeginners #jewellery #notatechgirl",
+  "len": 769,
+  "video": false
+ },
+ {
+  "date": "2026-11-22",
+  "folder": "10 Artifacts",
+  "slug": "10",
+  "images": [
+   "artifacts-01.jpg",
+   "artifacts-02.jpg",
+   "artifacts-03.jpg",
+   "artifacts-04.jpg",
+   "artifacts-05.jpg",
+   "artifacts-06.jpg",
+   "artifacts-07.jpg",
+   "artifacts-08.jpg"
+  ],
+  "caption": "✨ Don't just chat with AI. Make something.\n\nAn artifact is a real thing Claude makes for you: a document, a slide deck, a spreadsheet, even a small app. It opens next to the chat, and you can edit, download or share it.\n\n· Doc: the meeting summary your boss actually reads\n· Slides: the five-slide pitch for your side project\n· Sheet: the Christmas gift budget with totals\n· App: a tiny habit tracker\n\nMy own three from this week are on card 4, all made by talking. The prompt is on card 5.\n\nSave this for the next time you're about to open Word.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIforbeginners #worksmarter #learnAI #notatechgirl",
+  "len": 688,
+  "video": true
+ },
+ {
+  "date": "2026-11-23",
+  "folder": "17 Find a hotel with Claude",
+  "slug": "17",
+  "images": [
+   "hotel-01.jpg",
+   "hotel-02.jpg",
+   "hotel-03.jpg",
+   "hotel-04.jpg",
+   "hotel-05.jpg",
+   "hotel-06.jpg",
+   "hotel-07.jpg",
+   "hotel-08.jpg"
+  ],
+  "caption": "🧳 I found a hotel in Madrid without opening a single tab.\n\nOne message to Claude: city, date, budget, breakfast. It searched Booking.com for me and came back with real hotels, photos, ratings and prices, all under budget and with breakfast included.\n\n· Connect Booking.com once in Customize → Connectors, then switch it on with + → Connectors\n· Put every detail in one message: city, dates, nights, budget, breakfast, area\n· Claude asks before it uses the app; you press Allow once\n· You still read the reviews and press book yourself\n\nMy exact prompt is on card 5. Save it for your next trip and send this to your travel buddy.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #travelhacks #AIforbeginners #AItips #notatechgirl",
+  "len": 769,
+  "video": true
+ },
+ {
+  "date": "2026-11-24",
+  "folder": "20 Four mood words",
+  "slug": "20",
+  "images": [
+   "moods-01.jpg",
+   "moods-02.jpg",
+   "moods-03.jpg",
+   "moods-04.jpg",
+   "moods-05.jpg",
+   "moods-06.jpg",
+   "moods-07.jpg",
+   "moods-08.jpg"
+  ],
+  "caption": "📸 4 words that make AI photos look editorial, not AI.\n\nAI defaults to the safest picture: centred, frozen, evenly lit. One mood word breaks that default.\n\n· Sculptural: one bold shape, nothing else\n· Wind: hair and fabric caught mid-moment\n· Motion blur: the photo that looks like a feeling\n· Close & still: tight crop, direct gaze, total calm\n\nThe exact phrases are on each card, and the full template is on card 5. Save it for your next shoot.\n\nWhich mood are you? Tell me in the comments 👇\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡\n\n#AIphotography #promptengineering #AIforbeginners #editorial #notatechgirl",
+  "len": 646,
+  "video": false
+ },
+ {
+  "date": "2026-11-25",
+  "folder": "11 Scheduled tasks",
+  "slug": "11",
+  "images": [
+   "scheduled-01.jpg",
+   "scheduled-02.jpg",
+   "scheduled-03.jpg",
+   "scheduled-04.jpg",
+   "scheduled-05.jpg",
+   "scheduled-06.jpg",
+   "scheduled-07.jpg",
+   "scheduled-08.jpg"
+  ],
+  "caption": "⏰ The AI task that runs while you're in the bath.\n\nA scheduled task is a prompt you write once, and Claude runs it on its own every day or week, even with your laptop closed (paid plans).\n\n· Monday 8:00: plan my week from my calendar\n· Friday 16:00: draft my update for my manager\n· 1st of the month: bills and renewals\n· Sunday: five dinners and one shopping list\n\nMine: every Monday my strategist Lou drafts my content week, and twice a week a trends report lands. The Friday-update prompt is on card 5.\n\nSend this to the colleague who writes the same report every week.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIautomation #AIforbeginners #learnAI #notatechgirl",
+  "len": 715,
+  "video": true
+ },
+ {
+  "date": "2026-11-26",
+  "folder": "12 Skills",
+  "slug": "12",
+  "images": [
+   "skills-01.jpg",
+   "skills-02.jpg",
+   "skills-03.jpg",
+   "skills-04.jpg",
+   "skills-05.jpg",
+   "skills-06.jpg",
+   "skills-07.jpg",
+   "skills-08.jpg"
+  ],
+  "caption": "🧠 Teach Claude once. Get it right every time.\n\nA skill saves your way of working as a recipe: your steps, your rules, your style. Next time you just say \"write my Friday update\".\n\n· Pick a task you repeat every week\n· Do it once in a chat until it's exactly right\n· Say: \"turn this into a skill\"\n\nMy AI team is three skills: Lou plans my content, Mila edits my videos and Remy designed this carousel. The prompt to build your first one is on card 5. Works on the free plan too.\n\nWhat do you explain every week? Tell me in the comments, that's your first skill.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIskills #AIforbeginners #learnAI #notatechgirl",
+  "len": 699,
+  "video": true
+ },
+ {
+  "date": "2026-11-27",
+  "folder": "21 Small details big difference",
+  "slug": "21",
+  "images": [
+   "small-details-01.jpg",
+   "small-details-02.jpg",
+   "small-details-03.jpg",
+   "small-details-04.jpg",
+   "small-details-05.jpg",
+   "small-details-06.jpg"
+  ],
+  "caption": "🔍 Small details, big difference.\n\nThe first picture was good enough. Pretty, even. But look closer: smooth skin, no freckles, glossy lips, soft lashes. It looks a little like a filter.\n\nSo I didn't start over. I sent one more message and asked for the small things:\n· visible pores and light freckles\n· fine lines on the lips, natural matte finish\n· individual lashes of uneven length\n· separate hair strands, no skin smoothing\n\nThe exact reply is on card 4. Save it for the next time AI gives you \"good enough\".\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡\n\n#AIportrait #AIphotography #promptengineering #AIforbeginners #notatechgirl",
+  "len": 667,
+  "video": false
+ },
+ {
+  "date": "2026-11-28",
+  "folder": "18 Christmas project",
+  "slug": "18",
+  "images": [
+   "christmas-01.jpg",
+   "christmas-02.jpg",
+   "christmas-03.jpg",
+   "christmas-04.jpg",
+   "christmas-05.jpg",
+   "christmas-06.jpg",
+   "christmas-07.jpg"
+  ],
+  "caption": "🎄 Christmas, sorted, in one Claude project.\n\nI made one project called \"Christmas 2026\" with the goal \"family gift ideas, 4 people, budget €500\". Every chat inside it already knows the plan: gift ideas for a 5-year-old, and a Christmas card that Claude designed straight in Canva.\n\n· Projects → New project: name, goal, budget (card 2)\n· Ask for the card; if Canva is off, Claude tells you and you turn it on right in the chat (card 3)\n· Open it in Canva, check it and add your family's names (card 4)\n· Both prompts are on card 5\n\nYou need a Canva account connected for the card part. Save this for the weekend and send it to the person who always buys the gifts last minute.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #christmasgifts #AIforbeginners #AItips #notatechgirl",
+  "len": 820,
+  "video": true
+ },
+ {
+  "date": "2026-11-29",
+  "folder": "09 Incognito chat",
+  "slug": "09",
+  "images": [
+   "incognito-01.jpg",
+   "incognito-02.jpg",
+   "incognito-03.jpg",
+   "incognito-04.jpg",
+   "incognito-05.jpg",
+   "incognito-06.jpg",
+   "incognito-07.jpg",
+   "incognito-08.jpg"
+  ],
+  "caption": "👻 The chat Claude forgets.\n\nClick the little ghost on a new chat and you're incognito: it isn't saved to your history, isn't used for memory and isn't used to train Claude.\n\n· The salary question before your review\n· The health question you feel silly asking\n· Your partner's gift, on a shared laptop\n\nHonest part: incognito chats are still kept for 30 days for safety, then deleted. Private, not a vault, so passwords and card numbers never go in any chat.\n\nThe salary prompt is on card 6. Available on every plan, including free.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇\n\n#claudeai #AIprivacy #AIforbeginners #learnAI #notatechgirl",
+  "len": 671,
+  "video": true
+ },
+ {
+  "date": "2026-11-30",
+  "folder": "22 These boots dont exist",
+  "slug": "22",
+  "images": [
+   "imagine-it-01.jpg",
+   "imagine-it-02.jpg",
+   "imagine-it-03.jpg",
+   "imagine-it-04.jpg",
+   "imagine-it-05.jpg",
+   "imagine-it-06.jpg"
+  ],
+  "caption": "👢 These boots don't exist. I imagined them.\n\nOrange fluffy boots with black polka dots: a silly idea in my head, a real-looking photo a minute later. Then I put them on a tree, just to see.\n\nThat's the part of AI nobody talks about enough: whatever comes into your mind, you can see it before it exists.\n· a product idea before you make it\n· your living room in a new colour\n· that dress, but in your colour and length\n· a one-of-a-kind gift\n\nMy prompt is on card 4. What would you create? Tell me your wildest idea in the comments 👇\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡\n\n#AIart #AIphotography #creativity #AIforbeginners #notatechgirl",
+  "len": 676,
+  "video": false
+ },
+ {
+  "date": "2026-12-01",
+  "folder": "14 Meet my AI team",
+  "slug": "14",
+  "images": [
+   "ai-team-01.jpg",
+   "ai-team-02.jpg",
+   "ai-team-03.jpg",
+   "ai-team-04.jpg",
+   "ai-team-05.jpg",
+   "ai-team-06.jpg",
+   "ai-team-07.jpg",
+   "ai-team-08.jpg"
+  ],
+  "caption": "🧡 Meet my AI team: Lou, Mila and Remy.\n\nI'm not a tech girl, and I still have a content team. None of them are apps I pay extra for. Each one is a skill in Claude: my rules for one job, written down once.\n\n· Lou, my content strategist: writes my weekly plan every Monday morning\n· Mila, my video editor: cuts my talking videos and adds captions and effects\n· Remy, my carousel designer: made the carousel you're reading right now\n\nThey draft, I decide. The prompt to create your first helper is on card 6.\n\nWho would you hire first? Tell me in the comments.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🤖👇\n\n#claudeai #AIagents #AIforbeginners #contentcreator #notatechgirl",
+  "len": 703,
+  "video": false
+ }
+]
