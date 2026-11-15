@@ -88,63 +88,6 @@
   ]
  },
  {
-  "date": "2026-11-15",
-  "folder": "06 The Claude tour",
-  "slug": "06",
-  "images": [
-   "claude-tour-01.jpg",
-   "claude-tour-02.jpg",
-   "claude-tour-03.jpg",
-   "claude-tour-04.jpg",
-   "claude-tour-05.jpg",
-   "claude-tour-06.jpg",
-   "claude-tour-07.jpg"
-  ],
-  "caption": "🗺️ Six buttons. That's the whole of Claude.\n\nThe first time I opened it, the left side looked like a cockpit. It isn't. Here's what each button does, in plain words:\n\n· New: a blank chat, write like you'd brief a colleague\n· Search: find any old chat in seconds\n· Projects: one desk per area of your life\n· Artifacts: the documents, slides and sheets it makes you\n· Scheduled: tasks that run on their own (paid plans)\n· Customize: connect your apps and teach it your way\n\nPlus the same Claude on your phone, with the same chats.\n\nYour first message to try is on card 5. Save this for the day you open Claude for the first time.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇",
-  "len": 767,
-  "video": true,
-  "image_urls": [
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-01.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-02.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-03.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-04.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-05.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-06.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-07.jpg"
-  ],
-  "media": [
-   {
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-01.jpg"
-   },
-   {
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-02.jpg"
-   },
-   {
-    "type": "video",
-    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-03-video.mp4"
-   },
-   {
-    "type": "video",
-    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-04-video.mp4"
-   },
-   {
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-05.jpg"
-   },
-   {
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-06.jpg"
-   },
-   {
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-07.jpg"
-   }
-  ],
-  "ready": false
- },
- {
   "date": "2026-11-16",
   "folder": "13 Tell Claude who you are",
   "slug": "13",
@@ -284,31 +227,60 @@
  },
  {
   "date": "2026-11-18",
-  "folder": "05 Is it AI",
-  "slug": "05",
+  "folder": "06 The Claude tour",
+  "slug": "06",
   "images": [
-   "is-it-ai-01.jpg",
-   "is-it-ai-02.jpg",
-   "is-it-ai-03.jpg",
-   "is-it-ai-04.jpg",
-   "is-it-ai-05.jpg",
-   "is-it-ai-06.jpg",
-   "is-it-ai-07.jpg",
-   "is-it-ai-08.jpg"
+   "claude-tour-01.jpg",
+   "claude-tour-02.jpg",
+   "claude-tour-03.jpg",
+   "claude-tour-04.jpg",
+   "claude-tour-05.jpg",
+   "claude-tour-06.jpg",
+   "claude-tour-07.jpg"
   ],
-  "caption": "🧡 Is it AI? Look closer.\n\nYes, she's AI. But she doesn't look fake, and that's not luck. Most AI portraits look plastic because they're too perfect. Real faces have texture, and AI only adds it when you describe it.\n\n· Eyes: soft window catchlight, separate lashes\n· Fabric: loose mohair fibres catching the light\n· Skin: visible pores, uneven freckles, no smoothing\n· Lips: fine lines, matte, never glossy\n· Hair: flyaways and baby hairs\n\nThe full prompt is on card 7. Want my free guide to starting with AI? Comment AI and I'll send it to you ✨👇",
-  "len": 610,
-  "video": false,
+  "caption": "🗺️ Six buttons. That's the whole of Claude.\n\nThe first time I opened it, the left side looked like a cockpit. It isn't. Here's what each button does, in plain words:\n\n· New: a blank chat, write like you'd brief a colleague\n· Search: find any old chat in seconds\n· Projects: one desk per area of your life\n· Artifacts: the documents, slides and sheets it makes you\n· Scheduled: tasks that run on their own (paid plans)\n· Customize: connect your apps and teach it your way\n\nPlus the same Claude on your phone, with the same chats.\n\nYour first message to try is on card 5. Save this for the day you open Claude for the first time.\n\nWant my free guide to starting with AI? Comment AI and I'll send it to you 🧡👇",
+  "len": 767,
+  "video": true,
   "image_urls": [
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/05/is-it-ai-01.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/05/is-it-ai-02.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/05/is-it-ai-03.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/05/is-it-ai-04.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/05/is-it-ai-05.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/05/is-it-ai-06.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/05/is-it-ai-07.jpg",
-   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/05/is-it-ai-08.jpg"
-  ]
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-01.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-02.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-03.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-04.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-05.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-06.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-07.jpg"
+  ],
+  "media": [
+   {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-01.jpg"
+   },
+   {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-02.jpg"
+   },
+   {
+    "type": "video",
+    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-03-video.mp4"
+   },
+   {
+    "type": "video",
+    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-04-video.mp4"
+   },
+   {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-05.jpg"
+   },
+   {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-06.jpg"
+   },
+   {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/06/claude-tour-07.jpg"
+   }
+  ],
+  "ready": false
  },
  {
   "date": "2026-11-19",
@@ -952,6 +924,34 @@
    "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/14/ai-team-06.jpg",
    "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/14/ai-team-07.jpg",
    "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/14/ai-team-08.jpg"
+  ]
+ },
+ {
+  "date": "2026-12-02",
+  "folder": "24 Stop building slides",
+  "slug": "24",
+  "images": [
+   "slides-01.jpg",
+   "slides-02.jpg",
+   "slides-03.jpg",
+   "slides-04.jpg",
+   "slides-05.jpg",
+   "slides-06.jpg",
+   "slides-07.jpg",
+   "slides-08.jpg"
+  ],
+  "caption": "Stop building slides from scratch 🧡\n\nThree steps to get Claude to draft your next deck, even on the free plan:\n· Tell it the meeting, not just \"make slides\"\n· Ask for the outline first and fix it in plain words\n· Say go, then download as PowerPoint or PDF\n\nSave the prompt card for your next Sunday night. Who do you know who always ends up building the Monday deck?\n\nComment AI and I'll send you my free guide 🤖",
+  "len": 412,
+  "video": false,
+  "image_urls": [
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/24/slides-01.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/24/slides-02.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/24/slides-03.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/24/slides-04.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/24/slides-05.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/24/slides-06.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/24/slides-07.jpg",
+   "https://raw.githubusercontent.com/kreeslinalinda-dotcom/linda-instagram-posts/main/24/slides-08.jpg"
   ]
  }
 ]
